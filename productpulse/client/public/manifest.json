@@ -1,0 +1,15 @@
+{
+  "short_name": "ProductPulse",
+  "name": "ProductPulse — launch feed",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FF6B5C",
+  "background_color": "#ffffff"
+}
