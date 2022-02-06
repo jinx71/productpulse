@@ -1,0 +1,19 @@
+{
+  "name": "productpulse",
+  "version": "1.0.0",
+  "description": "ProductPulse — a Product Hunt-style launch feed (MERN, 2021-2022 stack). Engineering lesson: trending ranking algorithm + optimistic UI + comment threads.",
+  "private": true,
+  "engines": {
+    "node": ">=16 <17"
+  },
+  "scripts": {
+    "client": "npm start --prefix client",
+    "server": "npm run dev --prefix server",
+    "dev": "concurrently -n server,client -c magenta,cyan \"npm run server\" \"npm run client\"",
+    "seed": "npm run seed --prefix server",
+    "install-all": "npm install && npm install --prefix server && npm install --prefix client"
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
