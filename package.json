@@ -4,7 +4,7 @@
   "description": "ProductPulse — a Product Hunt-style launch feed (MERN, 2021-2022 stack). Engineering lesson: trending ranking algorithm + optimistic UI + comment threads.",
   "private": true,
   "engines": {
-    "node": ">=16 <17"
+    "node": ">20"
   },
   "scripts": {
     "client": "npm start --prefix client",
