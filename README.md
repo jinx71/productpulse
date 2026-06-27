@@ -215,7 +215,7 @@ _Add screenshots here once running:_
 **Submit Form:**
 ![Submit form](docs/submit.png)
 
-**Submit Form:**
+**Responsiveness:**
 ![Responsiveness](docs/responsive.png)
 ---
 
