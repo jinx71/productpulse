@@ -206,9 +206,14 @@ Send the token as `Authorization: Bearer <token>`.
 
 _Add screenshots here once running:_
 
-- `docs/feed.png` — the ranked feed
-- `docs/detail.png` — launch detail + comments
-- `docs/submit.png` — submit form
+**The Ranked Feed:**
+![The ranked feed](docs/feed.png)
+
+**Launch Detail & Comments:**
+![Launch detail and comments](docs/detail.png)
+
+**Submit Form:**
+![Submit form](docs/submit.png)
 
 ---
 
